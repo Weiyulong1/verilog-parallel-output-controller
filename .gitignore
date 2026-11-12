@@ -1,0 +1,10 @@
+# Vivado and XSim generated files
+/build/
+/.Xil/
+/xsim.dir/
+*.jou
+*.log
+*.pb
+*.wdb
+*.vcd
+*.vvp
